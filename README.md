@@ -4,6 +4,7 @@ Hi there! I am a 22 year old SOC Analyst for a finTech Company. I made this page
 
 Twitter: @bhartyrs 
 Github: @bhartyrs
+Email: bhartyrs@gmail.com
 
 
 
